@@ -1,0 +1,6 @@
+server/vendor
+server/build
+
+client/node_modules
+client/dist
+client/.env
