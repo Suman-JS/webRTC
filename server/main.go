@@ -127,7 +127,7 @@ func handleMessages(client *Client) {
 				username = "Anonymous"
 			}
 
-			// Updating client details
+
 			client.Room = roomID
 			client.Username = username
 
